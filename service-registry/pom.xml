@@ -71,7 +71,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>dailycodebuffer/service-registry</repository>
+					<repository>ashwin081288/service-registry</repository>
 					<tag>${project.version}</tag>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
 				</configuration>
